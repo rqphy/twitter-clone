@@ -21,7 +21,7 @@ function Sidebar() {
       <TwitterIcon />
 
       {/* SidebarOption */}
-      <SidebarOption Icon={HomeIcon} text="Home" />
+      <SidebarOption active Icon={HomeIcon} text="Home" />
       <SidebarOption Icon={SearchIcon} text="Explore" />
       <SidebarOption Icon={NotificationNoneIcon} text="Notifications" />
       <SidebarOption Icon={MailOutlineIcon} text="Messages" />
@@ -34,6 +34,7 @@ function Sidebar() {
       {/* SidebarOption */}
 
       {/* Tweet Button */}
+      {/* <button>Tweet</button> */}
     </div>
   );
 }
