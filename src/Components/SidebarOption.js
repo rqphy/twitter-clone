@@ -3,7 +3,7 @@ import "../styles/SidebarOption.css";
 
 function SidebarOption({ text, Icon }) {
   return (
-    <div className="sidebar__option">
+    <div className="sidebarOption">
       <Icon />
       <h2>{text}</h2>
     </div>
