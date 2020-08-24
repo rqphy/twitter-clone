@@ -1,12 +1,14 @@
 import React from "react";
 import "./App.css";
+import Sidebar from "./Components/Sidebar.js";
 
 function App() {
   return (
     // BEM
     <div className="app">
-      <h2>Hello World</h2>
       {/* Sidebar */}
+      <Sidebar />
+
       {/* Feed */}
       {/* Widgets */}
     </div>
