@@ -8,7 +8,7 @@ function TweetBox() {
       <form>
         <div className="tweetBox__input">
           <Avatar />
-          <input placeholder="What's happening" />
+          <input placeholder="What's happening?" />
         </div>
         <Button className="tweetBox__tweetButton">Tweet</Button>
       </form>
