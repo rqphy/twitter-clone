@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Sidebar from "./Components/Sidebar.js";
 import Feed from "./Components/Feed.js";
+import Widgets from "./Components/Widgets.js";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Feed />
 
       {/* Widgets */}
+      <Widgets />
     </div>
   );
 }
