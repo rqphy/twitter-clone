@@ -7,7 +7,7 @@ import { Button } from "@material-ui/core";
 // Icons
 import HomeIcon from "@material-ui/icons/Home";
 import SearchIcon from "@material-ui/icons/Search";
-import NotificationNoneIcon from "@material-ui/icons/Notifications";
+import NotificationNoneIcon from "@material-ui/icons/NotificationsNone";
 import MailOutlineIcon from "@material-ui/icons/MailOutline";
 import BookmarkBorderIcon from "@material-ui/icons/BookmarkBorder";
 import ListAltIcon from "@material-ui/icons/ListAlt";
