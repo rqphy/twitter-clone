@@ -8,7 +8,7 @@ function Widgets() {
     <section className="widgets">
       <div className="widgets__input">
         <SearchIcon className="widgets__searchIcon" />
-        <input palceholder="Search Twitter" />
+        <input placeholder="Search Twitter" />
       </div>
       <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
